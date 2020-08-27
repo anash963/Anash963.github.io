@@ -2,9 +2,9 @@
 
 ---
 
-### Supervised Learning 
+## Supervised Learning 
 
-## Project 1
+### Project 1
 [Fuel Consumption Prediction of 70s and 80s vehicles.](https://github.com/anash963/fuel-consumption-end-to-end-ml-master)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
